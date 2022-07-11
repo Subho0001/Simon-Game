@@ -1,2 +1,2 @@
 # Simon-Game
-It is A game Of TESTING MEMORIES.
+It is A BRAIN game Of TESTING BRAINS.
